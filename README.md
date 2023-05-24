@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python 🐍**
 
 - 💬 Ask me about **react,java,javascript,html and css**
 
 - 📫 How to reach me **franksurenuga@gmail.com**
 
-- 📄 Know about my experiences **In my last big project we managed to make a car rental web application where we did all the back in java with the help of frameworld springboot with an mvc model with the help of a jwt library we achieved security so that users could log in and renting vehicles on the front we did it in the react library with the help of sass, the database we use is mysql and all this is uploaded to amazon web service here everything is together and working**
+- 📄 Know about my experiences [In my last big project we managed to make a car rental web application where we did all the back in java with the help of frameworld springboot with an mvc model with the help of a jwt library we achieved security so that users could log in and renting vehicles on the front we did it in the react library with the help of sass, the database we use is mysql and all this is uploaded to amazon web service here everything is together and working](In my last big project we managed to make a car rental web application where we did all the back in java with the help of frameworld springboot with an mvc model with the help of a jwt library we achieved security so that users could log in and renting vehicles on the front we did it in the react library with the help of sass, the database we use is mysql and all this is uploaded to amazon web service here everything is together and working)
 
 - ⚡ Fun fact **I am a calm person with a great desire to learn new things and always improve, I am also very happy and very committed, responsible and until I see my idea come true I do not rest, I like to help whenever I can and always listen to gain experience and learn new things**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/frank-bedoya-mejia-105b67249/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-bedoya-mejia-105b67249/?locale=en_us" height="30" width="40" /></a>
 <a href="https://fb.com/frank.bedoya.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frank.bedoya.908" height="30" width="40" /></a>
+<a href="https://instagram.com/http://frankcho_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://frankcho_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
