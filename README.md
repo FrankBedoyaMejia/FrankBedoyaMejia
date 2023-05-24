@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/frank-bedoya-mejia-105b67249/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frank-bedoya-mejia-105b67249/?locale=en_us" height="30" width="40" /></a>
 <a href="https://fb.com/frank.bedoya.908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frank.bedoya.908" height="30" width="40" /></a>
-<a href="https://instagram.com/http://frankcho_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://frankcho_" height="30" width="40" /></a>
+<a href="https://instagram.com/http://frankcho_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/frankcho_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
