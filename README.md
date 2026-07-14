@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Frank Bedoya</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 
-- 💬 Ask me about **react,java,javascript,html and css**
+- 💬 Ask me about **Desarrollador Java Junior | Spring Boot | MySQL | JavaScript | Git**
 
-- 📫 How to reach me **franksurenuga@gmail.com**
+- 📫 How to reach me **frankbedoyamejia03@gmail.com**
 
 - 📄 Know about my experiences(In my last big project we managed to make a car rental web application where we did all the back in java with the help of frameworld springboot with an mvc model with the help of a jwt library we achieved security so that users could log in and renting vehicles on the front we did it in the react library with the help of sass, the database we use is mysql and all this is uploaded to amazon web service here everything is together and working)
 
